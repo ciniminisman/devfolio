@@ -1,15 +1,14 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://home-5006562411.app-ionos.space/`,
     // Your Name
     name: 'Bagrat Rukhadze',
     // Main Site Title
     title: `Bagrat Rukhadze | QA Manager`,
     // Description that goes under your name in main bio
     description: `Quality Assurance Manager`,
-    // Optional: Twitter account handle
-    author: `@rfitzio`,
+ 
     // Optional: Github account URL
     github: `https://github.com/ciniminisman`,
     // Optional: LinkedIn account URL
@@ -58,18 +57,18 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Languages (programming)',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Basic HTML and CSS, some python',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Languages (spoken)',
+        description: 'English',
       },
       {
-        name: 'Other',
+        name: 'Tools',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Agile / Scrum',
       },
     ],
   },
