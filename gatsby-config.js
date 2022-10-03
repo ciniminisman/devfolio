@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://home-5006562411.app-ionos.space/`,
+    siteUrl: `https://rukhadze.de`,
     // Your Name
     name: 'Bagrat Rukhadze',
     // Main Site Title
-    title: `Bagrat Rukhadze | QA Manager`,
+    title: `Bagrat Rukhadze`,
     // Description that goes under your name in main bio
-    description: `Quality Assurance Manager`,
+    description: `Quality assurance and technical support`,
  
     // Optional: Github account URL
     github: `https://github.com/ciniminisman`,
@@ -15,27 +15,7 @@ module.exports = {
     linkedin: `https://www.linkedin.com/in/bagratr/`,
     // Content of the About Me section
     about: `Software quality assurance / test manager in web, native and mobile with 2+ years of hands-on testing experience.`,
-    // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    projects: [
-      {
-        name: 'Devfolio',
-        description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-    ],
+
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
